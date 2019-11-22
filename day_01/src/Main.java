@@ -4,7 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("欢迎观临 万达影音城");
+        System.out.println("欢迎观临 万达影音城11111");
+        System.out.println("欢迎观临 万达影音城222222");
+        System.out.println("欢迎观临 万达影音城333333");
         Scanner sc = new Scanner(System.in);
         boolean isLoop = true;
         while(isLoop){
